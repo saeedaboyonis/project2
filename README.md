@@ -36,9 +36,9 @@ The following items should be installed in your system:
 
 5- instead of 3+4 you can use docker-compose and run "docker-compose up --build"
 
-6- go to your browser and navigate to "http://localhost:5000/?country='a country name'"
+6- go to your browser and navigate to "http://localhost:5000/?country=CountryName"
   
-7- you can replace 'a country name' with any country name you want
+7- you can replace 'CountryName' with any country name you want
 
 
 
