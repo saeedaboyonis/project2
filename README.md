@@ -12,7 +12,8 @@ Country’s Currency Name
 
 Country’s Currency rate (Base currency is EURO)
 
-Prerequisites
+
+**Prerequisites**
 
 The following items should be installed in your system:
 
@@ -22,7 +23,8 @@ The following items should be installed in your system:
 
 3- docker
 
-To run it follow these instructions:
+
+**To run it follow these instructions:**
 
 1- git all the app files to a directory in your system
 
